@@ -1,0 +1,24 @@
+{
+  "name": "moment-token",
+  "version": "1.0.0",
+  "description": "moment-token",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build-tokens.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusml/moment-token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dusml/moment-token/issues"
+  },
+  "homepage": "https://github.com/dusml/moment-token#readme",
+  "devDependencies": {
+    "style-dictionary": "^5.5.3"
+  }
+}
