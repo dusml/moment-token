@@ -1,6 +1,6 @@
 {
   "name": "@soyen98/moment-token",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "moment_token design tokens (CSS variables, SCSS variables, Tailwind v4 theme)",
   "files": [
     "dist",
