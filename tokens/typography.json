@@ -1,6 +1,6 @@
 {
   "font-size": {
-    "diaplsy": {
+    "display": {
       "$value": 48,
       "$type": "number"
     },
@@ -25,11 +25,11 @@
       "$type": "number"
     },
     "body-sm": {
-      "$value": 15,
+      "$value": 14,
       "$type": "number"
     },
     "caption": {
-      "$value": 13,
+      "$value": 12,
       "$type": "number"
     }
   },
@@ -63,11 +63,11 @@
   },
   "font-family": {
     "primary": {
-      "$value": "Monrope",
+      "$value": "manrope",
       "$type": "string"
     },
     "display": {
-      "$value": "Fraunces",
+      "$value": "String value",
       "$type": "string"
     }
   }
